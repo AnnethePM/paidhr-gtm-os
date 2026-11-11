@@ -33,3 +33,12 @@ PaidHR (paidhr.com): HR and payroll platform for African businesses. Full descri
 - **treg** (CLI): paid data lookups (enrichment, SERP, social, ads, scraping). Check the price with `treg catalog get <id>` before every call, then `treg call <id>`. Report each call's cost and estimate the total before loops. Login is project-only via `TREG_CONFIG` (`.treg/config.json`). Docs: https://treg.to/skill.md
 - **Miro** (MCP, project plugin `miro@miro-ai`): diagrams, such as GTM system maps and workflow flows.
 - **Notion** (MCP, `.mcp.json`): where finished docs are published. GitHub stays the source of truth: write and edit here first, then publish to Notion. Ask before publishing.
+
+## Skills
+
+From github.com/bolaji-ships/gtm-starter-kit. Method docs live in `knowledge-base/playbooks/`.
+
+- **Research to copy, in order:** `campaign-strategy` (15 to 25 tiered campaign ideas), `signal-matrix` (ICP segments and the signals to build first), `build-workflow-spec` (one workflow's structure, no copy), `campaign-copy` (email and LinkedIn copy from an approved spec and verified facts), `miro-gtm-flowchart` (GTM system as a Miro flow chart).
+- **Clay builds** (use `tools/rex`): `build-clay`, `prompt-builder`, `campaign-contract`, `design-clay-table-json`, `import-clay-table`, `save-clay-schema`, `calculate-costs`, `workspace-cost-audit`, `export-tables`, `campaign-qa`.
+- **Research and deliverability:** `crawl4ai` (crawl sites to Markdown), `agent-browser` (drive a real browser), `inbox-placement-test` (inbox vs spam placement, for EmailBison and MailReach).
+
