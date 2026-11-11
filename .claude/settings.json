@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "miro-ai": {
+      "source": {
+        "source": "github",
+        "repo": "miroapp/miro-ai"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "miro@miro-ai": true
+  }
+}

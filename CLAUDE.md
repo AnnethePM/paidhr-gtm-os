@@ -30,3 +30,6 @@ PaidHR (paidhr.com): HR and payroll platform for African businesses. Full descri
 
 ## Tools
 
+- **treg** (CLI): paid data lookups (enrichment, SERP, social, ads, scraping). Check the price with `treg catalog get <id>` before every call, then `treg call <id>`. Report each call's cost and estimate the total before loops. Login is project-only via `TREG_CONFIG` (`.treg/config.json`). Docs: https://treg.to/skill.md
+- **Miro** (MCP, project plugin `miro@miro-ai`): diagrams, such as GTM system maps and workflow flows.
+- **Notion** (MCP, `.mcp.json`): where finished docs are published. GitHub stays the source of truth: write and edit here first, then publish to Notion. Ask before publishing.
