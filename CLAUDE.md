@@ -2,16 +2,17 @@
 
 ## Company
 
-PaidHR (paidhr.com): HR and payroll platform for African businesses. Full description to fill in after research.
+PaidHR (paidhr.com): Lagos-based people operations platform (payroll, tax and pension remittance, HR, and PaidLife earned wage access) for African businesses of about 20 to 200+ employees; 400+ businesses and 25,000+ employees (source: `context/docs/research/company.md`).
 
 ## How this folder works
 
 - `.claude/skills/`: reusable Claude skills for GTM tasks. Read when a task matches a skill.
-- `context/icp/`: ideal customer profiles and personas. Read before any targeting, list building or copy.
-- `context/positioning/`: positioning, differentiators and competitor comparisons. Read before writing any claim about PaidHR.
-- `context/messaging/`: approved messaging, value props and objection handling. Read before writing copy.
-- `context/brand-kit/`: voice, tone, visual and style rules. Read before producing any copy or asset.
-- `context/docs/research/`: raw research notes with sources. Read when you need evidence for a company fact.
+- `context/icp/`: `icp.md`, `personas.md`. Read before any targeting, list building or copy.
+- `context/positioning/`: `positioning.md`, `value-proposition.md`, `competitors.md`. Read before writing any claim about PaidHR.
+- `context/messaging/`: `messaging.md`, `facts.md` (the only source of names, numbers and claims for copy). Read before writing copy.
+- `context/brand-kit/`: `brand.md` (tone and key phrases). Read before producing any copy or asset.
+- `context/docs/`: `case-studies.md`. Read when you need customer proof.
+- `context/docs/research/`: raw research with sources (company, customers, customer-videos, competitors, market, signals, voice). Read when you need evidence for a company fact.
 - `knowledge-base/playbooks/`: repeatable GTM workflows and specs. Read before running or building a workflow.
 - `knowledge-base/learnings/`: what worked, what failed, and why. Read before planning new campaigns.
 - `meetings/`: meeting notes and decisions. Read when picking up work that came from a meeting.
