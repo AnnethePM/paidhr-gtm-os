@@ -11,7 +11,7 @@ PaidHR (paidhr.com): Lagos-based people operations platform (payroll, tax and pe
 - `context/positioning/`: `positioning.md`, `value-proposition.md`, `competitors.md`. Read before writing any claim about PaidHR.
 - `context/messaging/`: `messaging.md`, `facts.md` (the only source of names, numbers and claims for copy). Read before writing copy.
 - `context/brand-kit/`: `brand.md` (tone and key phrases). Read before producing any copy or asset.
-- `context/docs/`: `case-studies.md`. Read when you need customer proof.
+- `context/docs/`: `case-studies.md`, `gtm-system.md`. Read when you need customer proof.
 - `context/docs/research/`: raw research with sources (company, customers, customer-videos, competitors, market, signals, voice). Read when you need evidence for a company fact.
 - `knowledge-base/playbooks/`: repeatable GTM workflows and specs. Read before running or building a workflow.
 - `knowledge-base/learnings/`: what worked, what failed, and why. Read before planning new campaigns.
