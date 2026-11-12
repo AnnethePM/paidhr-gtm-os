@@ -31,6 +31,7 @@ Product one-liner (context, not copy): full-suite HRMS for African businesses wi
 | Compliance record | "₦934M in PAYE filed and ₦754M in pension processed in 2025" | company.md: Traction (homepage) | User, 2026-11-12 |
 | Compliance record | "zero statutory defaults or delays" | company.md: Traction (homepage) | User, 2026-11-12 |
 | Tax law | "updated for Nigeria's new tax law, effective 1 January 2026" | company.md (homepage) | User, 2026-11-12 |
+| Deadline (Nigeria) | "the first annual PAYE return under Nigeria's new tax law is due 31 January" | context/docs/research/market.md (DLA Piper, Legit.ng, Safeguard Global) | User, 2026-11-12 |
 | Security | "ISO 27001 certified and NDPA registered" | company.md (homepage) | User, 2026-11-12 |
 | EWA cost | "zero cost to your company" | company.md: EWA page | User, 2026-11-12 |
 | Pricing model | "priced per employee per month, no upfront fees" | company.md: Pricing (Accion, Condia) | User, 2026-11-12 |
