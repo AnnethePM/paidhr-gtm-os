@@ -1,8 +1,8 @@
 # PaidHR - Authorized Copy Facts
 
-The ONLY source of names, numbers and claims for prospect-facing copy (`/campaign-copy` FACTS GATE). Anything not listed renders as `{{placeholder}}`. Built only from `context/docs/research/`. Nothing below has been approved yet: every row is "Pending" until a named person signs it off.
+The ONLY source of names, numbers and claims for prospect-facing copy (`/campaign-copy` FACTS GATE). Anything not listed renders as `{{placeholder}}`. Built only from `context/docs/research/`. Approved by the user on 2026-11-12.
 
-**Last updated:** 2026-11-12 by Claude (draft, pending GTM team approval)
+**Last updated:** 2026-11-12, approved by user (sender still TBD)
 
 ---
 
@@ -26,18 +26,18 @@ Product one-liner (context, not copy): full-suite HRMS for African businesses wi
 
 | Claim | Phrasing | Source | Approved by / date |
 |---|---|---|---|
-| Scale | "400+ businesses and 25,000+ employees" | company.md: Traction (LinkedIn), confirmed by user 2026-11-11 | Pending |
-| Payroll volume | "₦47.2bn in payroll processed in 2025" | company.md: Traction (LinkedIn) | Pending |
-| Compliance record | "₦934M in PAYE filed and ₦754M in pension processed in 2025" | company.md: Traction (homepage) | Pending |
-| Compliance record | "zero statutory defaults or delays" | company.md: Traction (homepage) | Pending |
-| Tax law | "updated for Nigeria's new tax law, effective 1 January 2026" | company.md (homepage) | Pending |
-| Security | "ISO 27001 certified and NDPA registered" | company.md (homepage) | Pending |
-| EWA cost | "zero cost to your company" | company.md: EWA page | Pending |
-| Pricing model | "priced per employee per month, no upfront fees" | company.md: Pricing (Accion, Condia) | Pending |
-| Cross-border | "$2M+ in cross-border payments processed since October 2024" | company.md (homepage) | Pending |
-| Investor | "backed by a seed round led by Accion Venture Lab" | company.md: Funding | Pending |
-| Customer result | Heroshe: statutory remittances used to take "two weeks or more" | customer-videos.md (auto-caption, check video) | Pending |
-| Customer result | Famasi saved "about one hour" per payroll run | customer-videos.md (auto-caption, check video) | Pending |
+| Scale | "400+ businesses and 25,000+ employees" | company.md: Traction (LinkedIn), confirmed by user 2026-11-11 | User, 2026-11-12 |
+| Payroll volume | "₦47.2bn in payroll processed in 2025" | company.md: Traction (LinkedIn) | User, 2026-11-12 |
+| Compliance record | "₦934M in PAYE filed and ₦754M in pension processed in 2025" | company.md: Traction (homepage) | User, 2026-11-12 |
+| Compliance record | "zero statutory defaults or delays" | company.md: Traction (homepage) | User, 2026-11-12 |
+| Tax law | "updated for Nigeria's new tax law, effective 1 January 2026" | company.md (homepage) | User, 2026-11-12 |
+| Security | "ISO 27001 certified and NDPA registered" | company.md (homepage) | User, 2026-11-12 |
+| EWA cost | "zero cost to your company" | company.md: EWA page | User, 2026-11-12 |
+| Pricing model | "priced per employee per month, no upfront fees" | company.md: Pricing (Accion, Condia) | User, 2026-11-12 |
+| Cross-border | "$2M+ in cross-border payments processed since October 2024" | company.md (homepage) | User, 2026-11-12 |
+| Investor | "backed by a seed round led by Accion Venture Lab" | company.md: Funding | User, 2026-11-12 |
+| Customer result | Heroshe: statutory remittances used to take "two weeks or more" | customer-videos.md (auto-caption, check video) | User, 2026-11-12 |
+| Customer result | Famasi saved "about one hour" per payroll run | customer-videos.md (auto-caption, check video) | User, 2026-11-12 |
 
 **Formatting rules for proof**
 - Write customer names as "Heroshe", "Famasi", "Cleva".
@@ -55,7 +55,7 @@ Product one-liner (context, not copy): full-suite HRMS for African businesses wi
 
 ## Authorized social-proof names
 
-None approved yet. Candidates from research:
+Approved by the user on 2026-11-12, with the caveats below:
 
 | Name | What it proves | Matches | Caveat |
 |---|---|---|---|
