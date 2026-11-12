@@ -11,13 +11,13 @@ PaidHR (paidhr.com): Lagos-based people operations platform (payroll, tax and pe
 - `context/positioning/`: `positioning.md`, `value-proposition.md`, `competitors.md`. Read before writing any claim about PaidHR.
 - `context/messaging/`: `messaging.md`, `facts.md` (the only source of names, numbers and claims for copy). Read before writing copy.
 - `context/brand-kit/`: `brand.md` (tone and key phrases). Read before producing any copy or asset.
-- `context/docs/`: `case-studies.md`, `gtm-system.md`. Read when you need customer proof.
-- `context/docs/research/`: raw research with sources (company, customers, customer-videos, competitors, market, signals, voice). Read when you need evidence for a company fact.
-- `knowledge-base/playbooks/`: repeatable GTM workflows and specs. Read before running or building a workflow.
+- `context/docs/`: `case-studies.md` (customer proof), `gtm-system.md` (the outbound system end to end). Read when you need proof or the system design.
+- `context/docs/research/`: `company.md`, `customers.md`, `customer-videos.md`, `competitors.md`, `market.md`, `signals.md`, `voice.md` (raw research with sources). Read when you need evidence for a company fact.
+- `knowledge-base/playbooks/`: `workflow-anatomy.md`, `signal-matrix-framework.md`, `copy-iron-laws.md`, `copy-frameworks.md`, `linkedin-dm-frameworks.md`, `copy-bans.yaml`, `templates/facts-template.md`, `clay/` (5 Clay guides). Read before running or building a workflow.
 - `knowledge-base/learnings/`: what worked, what failed, and why. Read before planning new campaigns.
 - `meetings/`: meeting notes and decisions. Read when picking up work that came from a meeting.
-- `output/campaigns/`: finished campaign assets and copy. Write here; read to reuse past work.
-- `tools/`: scripts and tool configs. Read when a task needs automation or a tool.
+- `output/campaigns/`: `campaign-strategy.md` (ranked ideas), `just-started/workflow-spec.md` (Just Raised spec and copy). Write here; read to reuse past work.
+- `tools/`: `rex/` (Clay SDK), `crawl4ai/` and `agent-browser/` (install guides). Read when a task needs automation or a tool.
 - `weekly-priorities/`: one file per ISO week (YYYY-Www.md). Read at the start of every session.
 - `work-log/`: one file per ISO week (YYYY-Www.md). Append an entry after every change.
 
@@ -33,7 +33,9 @@ PaidHR (paidhr.com): Lagos-based people operations platform (payroll, tax and pe
 
 - **treg** (CLI): paid data lookups (enrichment, SERP, social, ads, scraping). Check the price with `treg catalog get <id>` before every call, then `treg call <id>`. Report each call's cost and estimate the total before loops. Login is project-only via `TREG_CONFIG` (`.treg/config.json`). Docs: https://treg.to/skill.md
 - **Miro** (MCP, project plugin `miro@miro-ai`): diagrams, such as GTM system maps and workflow flows.
-- **Notion** (MCP, `.mcp.json`): where finished docs are published. GitHub stays the source of truth: write and edit here first, then publish to Notion. Ask before publishing.
+- **Notion** (MCP, `.mcp.json`): where finished docs are published, at https://app.notion.com/p/416bc1132dba8112b62ef3c3068c50b1 (PaidHR GTM OS). GitHub stays the source of truth: write and edit here first, then publish to Notion. Ask before publishing.
+- **GitHub** (`gh` CLI): source of truth, https://github.com/AnnethePM/paidhr-gtm-os (public).
+- **Planned, not connected yet** (named in `gtm-system.md`): Clay, HubSpot, n8n, PlusVibe.
 
 ## Skills
 

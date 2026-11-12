@@ -1,6 +1,6 @@
 # PaidHR outbound campaign ideas
 
-Built from `CLAUDE.md`, `context/` and `knowledge-base/playbooks/workflow-anatomy.md`. Work in progress. Names and numbers in copy come only from `context/messaging/facts.md` (all still Pending approval).
+Built from `CLAUDE.md`, `context/` and `knowledge-base/playbooks/workflow-anatomy.md`. Work in progress. Names and numbers in copy come only from `context/messaging/facts.md` (approved by the user on 2026-11-12).
 
 **Segments** (signal-matrix.md): S1 funded Nigerian tech startups, 20 to 100 staff. S2 Nigerian operators with deskless staff, 100+. S3 Nigerian companies paying staff abroad.
 **Personas** (personas.md): Champion = HR operations lead. Buyer = founder/CEO (S2: INFERRED COO or finance). Influencer = employees.
@@ -22,7 +22,7 @@ Ranked by signal strength, then by how easy the data is to get.
 | 6 | Founder-Run Payroll | Have/don't have specific team | S1 / founder-CEO | 20 to 60 staff, funded, no HR or payroll title on LinkedIn. Clay Find People | "Payroll still sits with you." Famasi's hour per run back | Medium (INFERRED) | Easy |
 | 7 | Hiring Velocity | Companies in hypergrowth (hiring velocity) | S1, S2 / champion | 5+ open roles at once. Clay Find Jobs + count | Each hire adds a payslip, a PAYE line and a pension line | Medium (INFERRED) | Easy |
 | 8 | Shift Workforce Hiring | Hiring specific roles | S2 / champion | Job posts for drivers, riders, store, factory or field staff. Clay Find Jobs | Payslips, leave and EWA on WhatsApp and USSD: "No internet? No problem." | Medium (INFERRED) | Medium |
-| 9 | Customer Lookalike | Lookalike of customers | S1 / founder-CEO | Companies like Heroshe, Famasi, Cleva. Clay lookalike | Teams like yours moved payroll off spreadsheets | Medium (INFERRED) | Easy, but blocked until names are approved in facts.md |
+| 9 | Customer Lookalike | Lookalike of customers | S1 / founder-CEO | Companies like Heroshe, Famasi, Cleva. Clay lookalike | Teams like yours moved payroll off spreadsheets | Medium (INFERRED) | Easy (names approved in facts.md on 2026-11-12) |
 | 10 | 31 January Return Countdown | Regulatory changes | All / champion and founder | No account signal: Nigeria Tax Act, first annual return due 31 Jan 2027 (market.md). Base list from Clay | Is payroll on the 2026 bands before the first return? | High (whole base list, INFERRED) | Easy |
 | 11 | Creative Payroll Ideas | Niche-specific play | S1, S2 / founder-CEO | No signal. Website and LinkedIn read by Claygent | 3 payroll ideas from what their site shows (riders in 3 cities, staff in Ghana) | High (base list, INFERRED) | Medium: AI step |
 | 12 | Event Follow-up | Companies attending an event | S1, S2 / founder-CEO | Sponsors and speakers at Moonshot 2026, HR Expo Africa. Clay HTTP scrape of event pages | Reference their talk or booth; PaidHR was at Moonshot 2026 | Low, seasonal (INFERRED) | Medium |
@@ -42,4 +42,4 @@ Required types: Creative (non-ICP) = #14 and #15. New Hire = #5. Lookalike = #9.
 - **Best story:** "you've just raised" is a natural, non-salesy opener, and it pairs with the 31 January return hook.
 - **Weakness:** low volume (about 8 a month). Pair it with #3 Headcount Threshold to fill the pipeline, using the same Clay build.
 
-**Before copy:** approve facts.md and set the sender identity. Next step: `/build-workflow-spec` on Just Raised.
+**Status:** facts.md approved 2026-11-12; sender still TBD. Just Raised spec is STRUCTURE-APPROVED and in copy (`output/campaigns/just-started/workflow-spec.md`).
